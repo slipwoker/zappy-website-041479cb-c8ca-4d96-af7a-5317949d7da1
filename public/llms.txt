@@ -1,0 +1,56 @@
+# brainrot — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני business.
+
+---
+
+## Pages
+
+### דף הבית
+https://brainrot-041479cb.zappy5.app
+ברוכים הבאים לחנות brainrot - קניית דמויות אספנות בישראל במחירים מטורפים! מגוון ענק של דמויות אספנות למכירה
+
+### המוצרים שלנו
+https://brainrot-041479cb.zappy5.app/products
+גלו את המגוון המלא של דמויות אספנות למכירה ב-brainrot - חנות דמויות אספנות אונליין מובילה בישראל עם מחירים מטורפים
+
+### אודות
+https://brainrot-041479cb.zappy5.app/about
+הכירו את brainrot - חנות דמויות אספנות אונליין מובילה לקניית דמויות אספנות בישראל. הסיפור שלנו, החזון שלנו, והמחויבות שלנו לאספנים
+
+### צור קשר
+https://brainrot-041479cb.zappy5.app/contact
+צרו קשר עם brainrot - חנות דמויות אספנות אונליין מובילה לקניית דמויות אספנות בישראל. נשמח לעזור לכם למצוא את הדמות המושלמת
+
+## Legal & Policy
+
+### Privacy Policy
+https://brainrot-041479cb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://brainrot-041479cb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://brainrot-041479cb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About brainrot
+brainrot is a business in the מסחר אלקטרוני industry.
+
+## Target Audience
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://brainrot-041479cb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://brainrot-041479cb.zappy5.app/robots.txt
