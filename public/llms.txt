@@ -1,47 +1,56 @@
-# Business — Generative Engine Optimization Map
+# brainrot — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://brainrot.zappy5.app
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com
 ברוכים הבאים לחנות brainrot - קניית דמויות אספנות בישראל במחירים מטורפים! מגוון ענק של דמויות אספנות למכירה
 
 ### המוצרים שלנו
-https://brainrot.zappy5.app/products
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/products
 גלו את המגוון המלא של דמויות אספנות למכירה ב-brainrot - חנות דמויות אספנות אונליין מובילה בישראל עם מחירים מטורפים
 
 ### אודות
-https://brainrot.zappy5.app/about
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/about
 הכירו את brainrot - חנות דמויות אספנות אונליין מובילה לקניית דמויות אספנות בישראל. הסיפור שלנו, החזון שלנו, והמחויבות שלנו לאספנים
 
 ### צור קשר
-https://brainrot.zappy5.app/contact
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/contact
 צרו קשר עם brainrot - חנות דמויות אספנות אונליין מובילה לקניית דמויות אספנות בישראל. נשמח לעזור לכם למצוא את הדמות המושלמת
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://brainrot.zappy5.app/privacy
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://brainrot.zappy5.app/terms
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://brainrot.zappy5.app/accessibility
+https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About brainrot
+brainrot is a business in the מסחר אלקטרוני industry.
+
+## Target Audience
+
+## Industry
+מסחר אלקטרוני
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://brainrot.zappy5.app/sitemap.xml
-- **Robots.txt**: https://brainrot.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/robots.txt
