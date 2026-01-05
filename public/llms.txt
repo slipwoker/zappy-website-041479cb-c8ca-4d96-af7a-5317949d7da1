@@ -1,6 +1,4 @@
-# brainrot — Generative Engine Optimization Map
-
-> A מסחר אלקטרוני business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,14 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About brainrot
-brainrot is a business in the מסחר אלקטרוני industry.
-
-## Target Audience
-
-## Industry
-מסחר אלקטרוני
-
+## About Business
 ---
 
 # Additional Resources
