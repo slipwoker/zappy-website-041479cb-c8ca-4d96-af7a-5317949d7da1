@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-041479cb-c8ca-4d96-af7a.onrender.com/sitemap.xml
+Sitemap: https://brainrot.zappy5.app/sitemap.xml
